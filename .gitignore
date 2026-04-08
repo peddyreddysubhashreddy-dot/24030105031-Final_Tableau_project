@@ -1,0 +1,6 @@
+*.hyper
+*.tde
+*.tdsx
+*.twbx
+*.log
+.DS_Store
