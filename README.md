@@ -15,3 +15,6 @@ This repository contains Tableau dashboards and workbooks for the purpose of the
 ## Notes
 - Use `.twb` format for version control
 - Do not commit `.twbx` files with sensitive data
+
+## Theme
+- going to the format tab in Tableau import provided .jason file to apply theme.
