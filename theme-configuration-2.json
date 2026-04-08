@@ -1,0 +1,107 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "version": "1.0.0",
+    "base-theme": "default",
+    "styles": {
+        "all": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book"
+        },
+        "mark": {
+            "mark-color": "#00c7fc"
+        },
+        "worksheet": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 10
+        },
+        "worksheet-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Light",
+            "font-size": 15
+        },
+        "header": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book"
+        },
+        "view": {
+            "background-color": "#000000"
+        },
+        "gridline": {
+            "line-visibility": "off",
+            "line-pattern": "solid",
+            "line-width": 1,
+            "line-color": "#F2F2F2"
+        },
+        "zeroline": {
+            "line-visibility": "on",
+            "line-pattern": "solid",
+            "line-width": 1,
+            "line-color": "#ffffff"
+        },
+        "tooltip": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 10
+        },
+        "dashboard-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 18,
+            "font-weight": "normal"
+        },
+        "story-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 18
+        },
+        "legend": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 9,
+            "background-color": "#000000"
+        },
+        "legend-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Medium",
+            "font-size": 9
+        },
+        "filter": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 9,
+            "background-color": "#000000"
+        },
+        "filter-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Medium",
+            "font-size": 9
+        },
+        "parameter-ctrl": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 9,
+            "background-color": "#000000"
+        },
+        "parameter-ctrl-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Medium",
+            "font-size": 9
+        },
+        "highlighter": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Book",
+            "font-size": 9,
+            "background-color": "#000000"
+        },
+        "highlighter-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Medium",
+            "font-size": 9
+        },
+        "page-ctrl-title": {
+            "font-color": "#ffffff",
+            "font-family": "Tableau Medium"
+        }
+    }
+}
